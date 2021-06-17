@@ -1,0 +1,10 @@
+name: hashids
+version: 0.5.0
+
+authors:
+  - Peter Leitzen <peter@leitzen.de>
+  - Alan Reid <alan@r3id.dev>
+
+crystal: ">= 0.35.1, < 2.0.0"
+
+license: MIT

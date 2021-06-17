@@ -3,7 +3,7 @@ version: 0.5.0
 
 authors:
   - Peter Leitzen <peter@leitzen.de>
-  - Alan Reid <alan@r3id.dev>
+  - r3id <alan@r3id.dev>
 
 crystal: ">= 0.35.1, < 2.0.0"
 
